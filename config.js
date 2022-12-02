@@ -26,34 +26,34 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     })
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/lordagam23_' 
-global.syt = 'https://youtube.com/channel/UCbbWYVvhTHz3AzfgYz4fMgg'
-global.sgh = 'https://github.com/KazeDevID/'
-global.sgc = 'https://chat.whatsapp.com/Lg1V1A0lRRA7d9Iaq117um'
-global.swa = 'wa.me/6282217590187'
+global.sig = 'https://instagram.com/nyxcooll' 
+global.syt = 'https://youtube.com/@GrowtopiaPromote'
+global.sgh = 'https://github.com/AkmalBotz/'
+global.sgc = 'https://chat.whatsapp.com/GZbOE8UT5hf7uNXJTtXUX2'
+global.swa = 'wa.me/6281269734000'
 global.stg = 't.me/KenalSayaaa'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
-global.ultahown = 'Maret 23 2023 00:00:01'
+global.ultahown = 'November 8 2023 00:00:01'
 
 /*============== PAYMENT ==============*/
-global.pdana = '082217590187'
-global.povo = '-'
-global.pgopay = '082217590187'
-global.ppulsa = '082217590187'
-global.ppulsa2 = '082217590187'
-global.psaweria = 'https://saweria.co/KazeDevID'
+global.pdana = '081370599523'
+global.povo = '081370599523'
+global.pgopay = '-'
+global.ppulsa = '081370599523'
+global.ppulsa2 = '081269734000'
+global.psaweria = 'https://saweria.co/Sphnx'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6282217590187'
-global.nomorown = '6282217590187'
+global.nomorown = '6281269734000'
 global.namebot = 'KinakoBot'
-global.nameown = 'Lord Kaze'
+global.nameown = 'Akmal'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282217590187', 'Lord Kaze', 'true']
+  ['6281269734000', 'Lord Akmal', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -93,10 +93,10 @@ global.thumbWarn = 'https://i.ibb.co/wQyLDLx/kaze.jpg'
 global.intro = 'https://i.ibb.co/PxSxQhd/20221103-171638.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = `${global.nameown}`
-global.umurowner = '18'
+global.umurowner = '15'
 global.asalowner = 'Isekai'
-global.nomorowner = 'wa.me/6282217590187'
-global.pacarowner = 'Kinako chan><'
+global.nomorowner = 'wa.me/6281269734000'
+global.pacarowner = 'Gaada🗿'
 
 /*============== TEXT ==============*/
 global.wait = '_In progress, please wait..._'
